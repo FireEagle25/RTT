@@ -1,0 +1,9 @@
+c:\users\fireeagle\documents\visual studio 2012\Projects\RTT\RTT\bin\Debug\RTT.exe.config
+c:\users\fireeagle\documents\visual studio 2012\Projects\RTT\RTT\bin\Debug\RTT.exe
+c:\users\fireeagle\documents\visual studio 2012\Projects\RTT\RTT\bin\Debug\RTT.pdb
+c:\users\fireeagle\documents\visual studio 2012\Projects\RTT\RTT\obj\Debug\RTT.csprojResolveAssemblyReference.cache
+c:\users\fireeagle\documents\visual studio 2012\Projects\RTT\RTT\obj\Debug\RTT.Form1.resources
+c:\users\fireeagle\documents\visual studio 2012\Projects\RTT\RTT\obj\Debug\RTT.Properties.Resources.resources
+c:\users\fireeagle\documents\visual studio 2012\Projects\RTT\RTT\obj\Debug\RTT.csproj.GenerateResource.Cache
+c:\users\fireeagle\documents\visual studio 2012\Projects\RTT\RTT\obj\Debug\RTT.exe
+c:\users\fireeagle\documents\visual studio 2012\Projects\RTT\RTT\obj\Debug\RTT.pdb
